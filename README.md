@@ -1,2 +1,2 @@
 # nodejs_workspace
-Patika.dev node.js iel backend patikası ödevleri
+Patika.dev node.js ile backend patikası ödevleri

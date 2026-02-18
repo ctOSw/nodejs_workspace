@@ -37,8 +37,10 @@ fs.readFile("./employees.json", "utf-8", (err, data) => {
   });
 });
 
+// dosyayı sil
 fs.unlink("./employees.json", (err) => {
   if (err) throw err;
   console.log("Dosya başarıyla silindi");
 });
+
 

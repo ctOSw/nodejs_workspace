@@ -1,0 +1,4 @@
+server.js hatalar 
+
+Thunder Client ile test ederken delete isteğinde bulunamadı hatası,
+url eşleşmiyor(url === "/users/:id"),çözüm ham string kontrolü yapmak 
